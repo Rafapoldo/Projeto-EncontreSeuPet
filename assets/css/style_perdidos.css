@@ -1,0 +1,68 @@
+/* CSS Head */
+
+.container{
+    display: block;   
+
+}
+.menu{
+    display: flex;
+    justify-content: flex-end;
+}
+.site-header{
+    background-color: rgba(150, 149, 149, 0.2);
+
+}
+.site-header img{
+    width: 60px;
+    height: 70px;
+}
+/* Botões */
+#perdido {
+    border-color: #ed931b;
+    width: 106px;
+    color: #ffffff;
+    background-color:rgba(237, 146, 29, 0.6);
+}
+#perdido:hover{
+    background-color: rgb(214, 206, 206);
+}
+#encontrado{
+    border-color: rgb(237, 146, 29);
+    color: #ffffff;
+    background-color:rgba(237, 146, 29, 0.6);
+}
+#encontrado:hover{
+    background-color: rgb(214, 206, 206);
+}
+
+/* Body */
+
+body{
+    background-image: url("../images/wallpaper.jpg");
+    
+}
+table{
+    background-color:rgba(237, 146, 29, 0.6);
+    
+}
+footer{
+    background-color: rgba(150, 149, 149, 0.2);
+
+}
+/* Footer */
+.footer-logo img{
+     width: 45px;
+     height: 50px;
+     margin-bottom: 20px;
+     margin-top: 20px;
+       
+    
+}
+li{
+    list-style: none;
+    margin: 10px;
+}
+label{
+    color: #ffffff;
+    margin-left: 10px;
+}
