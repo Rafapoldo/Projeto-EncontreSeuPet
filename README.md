@@ -9,7 +9,8 @@ PHP version: 5.6.38
 
 PHP Codeigniter is used for the Rest API service & Bootstrap  the whole project look and feel.
 
-Setup Instructions
+# Setup Instructions
+
 Use the Database 'encontreseupet' for this application.
 
 Open that application on your localhost.
